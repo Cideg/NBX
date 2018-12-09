@@ -16,7 +16,7 @@ Please see the included LICENSE file for more information.
 ##### Building
 
 - `git clone -b master https://https://github.com/Sudosups/NBX.git`
-- `cd plenteum`
+- `cd NBX`
 - `mkdir build && cd $_`
 - `cmake -DCMAKE_BUILD_TYPE=Release -DSTATIC=true ..`
 - `make`
